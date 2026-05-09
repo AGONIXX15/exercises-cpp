@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/sebastian/autoestudio_cpp/games/prueba1/build",
+  "command": "/usr/bin/c++ -DSFML_STATIC -isystem /home/sebastian/vcpkg/installed/x64-linux/include -std=gnu++23 -o CMakeFiles/MySFMLGame.dir/src/main.cpp.o -c /home/sebastian/autoestudio_cpp/games/prueba1/src/main.cpp",
+  "file": "/home/sebastian/autoestudio_cpp/games/prueba1/src/main.cpp",
+  "output": "CMakeFiles/MySFMLGame.dir/src/main.cpp.o"
+}
+]

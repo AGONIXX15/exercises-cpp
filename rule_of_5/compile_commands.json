@@ -1,0 +1,15 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-std=c++23",
+      "-o",
+      "main",
+      "main.cpp"
+    ],
+    "directory": "/home/sebastian/autoestudio_cpp/rule_of_5",
+    "file": "/home/sebastian/autoestudio_cpp/rule_of_5/main.cpp",
+    "output": "/home/sebastian/autoestudio_cpp/rule_of_5/main"
+  }
+]

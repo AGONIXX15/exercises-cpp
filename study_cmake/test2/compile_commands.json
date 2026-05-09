@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/sebastian/autoestudio_cpp/study_cmake/test2/build/src",
+  "command": "/usr/bin/c++  -I/home/sebastian/autoestudio_cpp/study_cmake/test2/include -std=gnu++23 -o CMakeFiles/test2.dir/main.cpp.o -c /home/sebastian/autoestudio_cpp/study_cmake/test2/src/main.cpp",
+  "file": "/home/sebastian/autoestudio_cpp/study_cmake/test2/src/main.cpp",
+  "output": "src/CMakeFiles/test2.dir/main.cpp.o"
+}
+]

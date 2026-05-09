@@ -1,0 +1,16 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-std=c++23",
+      "-Wall",
+      "-o",
+      "build/setcomp",
+      "main.cpp"
+    ],
+    "directory": "/home/sebastian/autoestudio_cpp/setting",
+    "file": "/home/sebastian/autoestudio_cpp/setting/main.cpp",
+    "output": "/home/sebastian/autoestudio_cpp/setting/build/setcomp"
+  }
+]

@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/sebastian/autoestudio_cpp/study_cmake/test1/build/src",
+  "command": "/usr/bin/c++  -I/home/sebastian/autoestudio_cpp/study_cmake/test1/include -I/home/sebastian/autoestudio_cpp/study_cmake/test1/src/lexer/include -std=gnu++23 -o CMakeFiles/main.dir/main.cpp.o -c /home/sebastian/autoestudio_cpp/study_cmake/test1/src/main.cpp",
+  "file": "/home/sebastian/autoestudio_cpp/study_cmake/test1/src/main.cpp",
+  "output": "src/CMakeFiles/main.dir/main.cpp.o"
+},
+{
+  "directory": "/home/sebastian/autoestudio_cpp/study_cmake/test1/build/src",
+  "command": "/usr/bin/c++  -I/home/sebastian/autoestudio_cpp/study_cmake/test1/include -I/home/sebastian/autoestudio_cpp/study_cmake/test1/src/lexer/include -std=gnu++23 -o CMakeFiles/main.dir/Persona.cpp.o -c /home/sebastian/autoestudio_cpp/study_cmake/test1/src/Persona.cpp",
+  "file": "/home/sebastian/autoestudio_cpp/study_cmake/test1/src/Persona.cpp",
+  "output": "src/CMakeFiles/main.dir/Persona.cpp.o"
+},
+{
+  "directory": "/home/sebastian/autoestudio_cpp/study_cmake/test1/build/src/lexer",
+  "command": "/usr/bin/c++  -I/home/sebastian/autoestudio_cpp/study_cmake/test1/include -I/home/sebastian/autoestudio_cpp/study_cmake/test1/src/lexer/include -std=gnu++23 -o CMakeFiles/lexer_lib.dir/Lexer.cpp.o -c /home/sebastian/autoestudio_cpp/study_cmake/test1/src/lexer/Lexer.cpp",
+  "file": "/home/sebastian/autoestudio_cpp/study_cmake/test1/src/lexer/Lexer.cpp",
+  "output": "src/lexer/CMakeFiles/lexer_lib.dir/Lexer.cpp.o"
+},
+{
+  "directory": "/home/sebastian/autoestudio_cpp/study_cmake/test1/build/src/lexer",
+  "command": "/usr/bin/c++  -I/home/sebastian/autoestudio_cpp/study_cmake/test1/include -I/home/sebastian/autoestudio_cpp/study_cmake/test1/src/lexer/include -std=gnu++23 -o CMakeFiles/lexer_lib.dir/Token.cpp.o -c /home/sebastian/autoestudio_cpp/study_cmake/test1/src/lexer/Token.cpp",
+  "file": "/home/sebastian/autoestudio_cpp/study_cmake/test1/src/lexer/Token.cpp",
+  "output": "src/lexer/CMakeFiles/lexer_lib.dir/Token.cpp.o"
+},
+{
+  "directory": "/home/sebastian/autoestudio_cpp/study_cmake/test1/build/src/lexer",
+  "command": "/usr/bin/c++  -I/home/sebastian/autoestudio_cpp/study_cmake/test1/include -I/home/sebastian/autoestudio_cpp/study_cmake/test1/src/lexer/include -std=gnu++23 -o CMakeFiles/lexer_lib.dir/utils.cpp.o -c /home/sebastian/autoestudio_cpp/study_cmake/test1/src/lexer/utils.cpp",
+  "file": "/home/sebastian/autoestudio_cpp/study_cmake/test1/src/lexer/utils.cpp",
+  "output": "src/lexer/CMakeFiles/lexer_lib.dir/utils.cpp.o"
+}
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-Wall",
+      "-Werror",
+      "-std=c++23",
+      "-o",
+      "build/main",
+      "main.cpp"
+    ],
+    "directory": "/home/sebastian/autoestudio_cpp/atomic",
+    "file": "/home/sebastian/autoestudio_cpp/atomic/main.cpp",
+    "output": "/home/sebastian/autoestudio_cpp/atomic/build/main"
+  }
+]

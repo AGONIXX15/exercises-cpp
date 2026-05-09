@@ -1,0 +1,32 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-std=c++23",
+      "-I",
+      "include",
+      "-o",
+      "main",
+      "src/main.cpp"
+    ],
+    "directory": "/home/sebastian/autoestudio_cpp/project",
+    "file": "/home/sebastian/autoestudio_cpp/project/src/main.cpp",
+    "output": "/home/sebastian/autoestudio_cpp/project/main"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-std=c++23",
+      "-I",
+      "include",
+      "-o",
+      "main",
+      "src/Persona.cpp"
+    ],
+    "directory": "/home/sebastian/autoestudio_cpp/project",
+    "file": "/home/sebastian/autoestudio_cpp/project/src/Persona.cpp",
+    "output": "/home/sebastian/autoestudio_cpp/project/main"
+  }
+]
