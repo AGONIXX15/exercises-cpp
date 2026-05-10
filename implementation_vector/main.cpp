@@ -46,10 +46,11 @@ public:
     other.cap = 0;
   }
 
-  MyVector& operator=(MyVector<T>&& other) noexcept {
-    if (this == &other) return *this;
+  MyVector &operator=(MyVector<T> &&other) noexcept {
+    if (this == &other)
+      return *this;
 
-    delete []data;
+    delete[] data;
     data = other.data;
     size = other.size;
     cap = other.cap;
@@ -60,7 +61,6 @@ public:
     return *this;
   }
 
-
   auto begin() { return data; }
 
   auto end() { return data + size; }
@@ -69,9 +69,7 @@ public:
 
   auto end() const { return data + size; }
 
-  size_t length() {
-    return this->size;
-  }
+  size_t length() { return this->size; }
 
   void resize(size_t new_cap) {
     T *new_array = new T[new_cap];
@@ -114,13 +112,9 @@ public:
     ++size;
   }
 
-  T& operator[](size_t index) {
-    return data[index];
-  }
+  T &operator[](size_t index) { return data[index]; }
 
-  const T& operator[](size_t index) const {
-    return data[index];
-  }
+  const T &operator[](size_t index) const { return data[index]; }
 };
 
 int main() {
@@ -132,5 +126,4 @@ int main() {
     std::cout << val << " ";
   }
   std::cout << '\n';
-
 }
